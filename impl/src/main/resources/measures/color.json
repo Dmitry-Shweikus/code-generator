@@ -1,0 +1,18 @@
+{
+  "name": "Color",
+  "key": "color",
+  "children": [
+    {
+      "name": "Red",
+      "key": "color.red"
+    },
+    {
+      "name": "Blue",
+      "key": "color.blue"
+    },
+    {
+      "name": "Green",
+      "key": "color.green"
+    }
+  ]
+}
