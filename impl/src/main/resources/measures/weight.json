@@ -1,0 +1,14 @@
+{
+  "name": "Weight",
+  "key": "weight",
+  "children": [
+    {
+      "name": "Kg",
+      "key": "weight.kg"
+    },
+    {
+      "name": "Pounds",
+      "key": "weight.pounds"
+    }
+  ]
+}
